@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Senduri
 - 👀 I’m interested in SQL for Business data analysis and Data Visualisations using Power Bi and Tableau
 - 🌱 I’m currently learning ETL concepts using data analysis tools
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on real time Business data analysis projects using SQL and Power Bi
 - 📫 How to reach me https://www.linkedin.com/in/senduri-fastina-7898064b/
 
 <!---
